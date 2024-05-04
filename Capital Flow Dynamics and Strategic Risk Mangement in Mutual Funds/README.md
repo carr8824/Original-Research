@@ -1,6 +1,28 @@
-## Job Market Paper: Unofficial Preliminary Release
-This working paper is currently hosted on GitHub as a segment of my ongoing Ph.D. thesis, which must be officially submitted to the university's repository before June of 2024. The decision to utilize GitHub, a platform that supports open-access content, is deliberate to prevent potential conflicts with subsequent formal uploads to institutional archives. The rationale for making my research publicly accessible at this stage is to address the common practice among recruiters who seek to review the job market paper. I aim to engage with a broader audience and invite constructive dialogue.
+# Job Market Paper: Unofficial Preliminary Release
 
-I welcome and value your feedback on this research. Should you wish to share your thoughts or are intrigued enough to propose a new research idea, please do not hesitate to email me at carr8824@gmail.com (Personal) or revilla@uji.es (Institutional).
+Welcome to the repository for my Job Market Paper. This solo-authored paper holds a pivotal role in my academic and professional journey, serving as a cornerstone as I navigate opportunities in academia and the broader job market. The research is ongoing, and the project is still in its developmental stages, which includes conducting additional tests and refining the underlying theories.
 
-I also ask that readers recognize that the content herein has yet to be officially published.
+### Current Status
+
+The paper is still a work in progress, and I am actively seeking feedback to enhance its quality and relevance. Your suggestions, critiques, and ideas are highly valued, as they will help me refine and develop this research further.
+
+### Conference Presentations
+
+This research has been selected for presentation at notable international conferences, providing an opportunity to discuss and develop ideas with peers from around the world:
+- **XXVI Applied Economics Meeting**
+  - **Date:** June 6 and 7, 2024
+  - **Location:** Santander, Spain
+  - [More about the conference](https://alde.es/xxvi-applied-economics-meeting/)
+  
+- **World Finance Conference**
+  - **Date:** July 30th - August 2nd, 2024
+  - **Location:** Cyprus
+  - [More about the conference](https://www.world-finance-conference.com/conference.php?id=28)
+
+### Feedback and Contact
+
+I would greatly appreciate any feedback you could provide on this project. If you have insights, questions, or would like to suggest new avenues of research:
+- **Email:** carr8824@gmail.com (Personal)
+- **Email:** revilla@uji.es (Institutional)
+
+Your input will be invaluable in shaping this work to its fullest potential.
