@@ -1,10 +1,10 @@
-# Research Presentation: Unveiling the Winning Edge
+#  Unveiling the Winning Edge of Team-Managed Funds
 
 Welcome to the GitHub repository for our ongoing research into decision-making dynamics within the asset management industry. This repository contains essential materials from a chapter of my PhD thesis, focusing on decision-making under flow dynamics in mutual funds.
 
 ## About This Research
 
-Our research delves into how mutual fund management teams and individual managers make investment decisions under varying capital inflows and outflows conditions. We explore the effectiveness of team versus individual management in navigating market pressures, examining how the structure and composition of management teams influence fund performance.
+Our research delves into how mutual fund management teams and individual managers make investment decisions under varying capital inflow and outflow conditions. We explore the effectiveness of team versus individual management in navigating market pressures, examining how the structure and composition of management teams influence fund performance.
 
 ### Key Questions Addressed:
 - How do team-managed funds perform compared to individual-managed funds during periods of liquidity shortages and excess?
@@ -12,12 +12,20 @@ Our research delves into how mutual fund management teams and individual manager
 
 ## Repository Contents
 
-**Extended Abstract**: This provides a comprehensive summary of the research background, methodology, and preliminary findings.
+**Extended Abstract**: This comprehensively summarizes the research background, methodology, and preliminary findings.
 - **Short Presentation (PDF)**: A concise slide deck suitable for brief presentations, summarizing key points and findings.
 - **Long Presentation (HTML)**: An in-depth presentation for detailed discussions, available for viewing through [this Dropbox link](https://www.dropbox.com/scl/fi/xup2xuvybe0qth318sgip/Slides-Presentation-Unveiling-the-Wining-Edge.html?rlkey=0gev9r695rc5sm27xycjd6697&dl=0). Please download and open in any browser for the best experience.
 
-### Viewing Recommendations:
-For an optimal experience with the lengthy presentation, we recommend using modern browsers such as Chrome, Firefox, or Safari. Some interactive elements may not display correctly or without adequate HTML5 support in older browsers.
+### Conference Presentations
+
+This research project has been featured at prestigious conferences, including:
+
+- **8th International Conference on Applied Theory, Macro and Empirical Finance**
+  - **Dates:** April 29th - 30th
+  - **Location:** Thessaloniki, Greece
+  - [More information about the conference](https://amef.uom.gr/)
+
+
 
 ## Why This Research Is Important
 
